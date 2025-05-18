@@ -19,7 +19,7 @@ source .venv/bin/activate
 
 `uv pip install openai-agents`
 
-## Create a .env file in the project root and add your Gemini API key:
+## Create a .env file in the project root and add  Gemini API key:
 
 
 GEMINI_API_KEY=your_gemini_api_key_here
